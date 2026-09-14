@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# macOS
+.DS_Store
+
+# Visual Studio Code
+.vscode/
+
+# Generated analysis files
+*.npy
+
+# Local dataset files
+data/*.csv
